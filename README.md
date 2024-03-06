@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadzahidqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="saadzahidqureshi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadzahidqureshi" alt="saadzahidqureshi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/s_a_a_d_z" target="blank"><img src="https://img.shields.io/twitter/follow/s_a_a_d_z?logo=twitter&style=for-the-badge" alt="s_a_a_d_z" /></a> </p>
 
