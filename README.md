@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/s_a_a_d__Z" target="blank"><img src="https://img.shields.io/twitter/follow/s_a_a_d__Z?logo=twitter&style=for-the-badge" alt="s_a_a_d__Z" /></a> </p>
 
-- 🔭 I’m currently working on [Flunter WebApp](https://github.com/hassanarif-23/Flunter.git)
+- 🔭 I’m currently working on [Flunter WebApp](https://github.com/bilalsaleem14/flunter)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaadZahidQureshi](https://github.com/SaadZahidQureshi)
 
