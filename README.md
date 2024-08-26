@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django, js, HTML/CSS/Bootstrap**
 
-- 📫 How to reach me **dev.saadzahid@gmail.com**
+- 📫 How to reach me **dev.saadzahidqureshi@gmail.com**
 
 
 
