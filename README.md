@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadzahidqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="saadzahidqureshi" /> </p>
 
-- 🔭 I’m currently working on [under-one-roof](https://github.com/bilalsaleem14/under-one-roof.git)
+- 🔭 I’m currently working on [Afyaa](https://github.com/SaadZahidQureshi/afyaa)
 
 - 📫 How to reach me **dev.saadzahidqureshi@gmail.com**
 
