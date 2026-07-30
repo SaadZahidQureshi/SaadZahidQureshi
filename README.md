@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadzahidqureshi&label=Profile%20views&color=0e75b6&style=flat" alt="saadzahidqureshi" /> </p>
 
-###- 🔭 I’m currently working on [afya](https://github.com/bilalsaleem14/afyaa/)
+# - 🔭 I’m currently working on [afya](https://github.com/bilalsaleem14/afyaa/)
 
 - 📫 How to reach me **dev.saadzahidqureshi@gmail.com**
 
